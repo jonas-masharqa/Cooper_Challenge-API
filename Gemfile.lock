@@ -202,7 +202,6 @@ DEPENDENCIES
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
-
 RUBY VERSION
    ruby 2.3.4p301
 
